@@ -1,0 +1,2 @@
+Cmnd_Alias SUMA_T_COMMANDS = /usr/bin/zypper, /usr/bin/cat, /usr/bin/rm, /usr/bin/rpm, /usr/bin/zypper, /usr/sbin/update-ca-certificates, /usr/bin/curl, /usr/bin/wget, /usr/bin/ln, /usr/bin/chmod, /usr/bin/echo, /usr/bin/touch, /usr/bin/tee, /usr/bin/systemctl, /usr/bin/c_rehash 
+suma-t ALL=(ALL) NOPASSWD: SUMA_T_COMMANDS
