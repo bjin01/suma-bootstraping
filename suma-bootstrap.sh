@@ -874,6 +874,10 @@ system-environment:
     pkg:
       _:
         SALT_RUNNING: 1
+        
+autosign_grains:
+  - os_family
+
 EOF
 fi
 
